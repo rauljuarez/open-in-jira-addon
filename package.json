@@ -1,0 +1,13 @@
+{
+  "title": "Open in Jira - Tool",
+  "name": "open-in-jira-addon",
+  "version": "0.0.1",
+  "description": "Select a Jira ID, right click and open it.",
+  "main": "index",
+  "author": "Raul Juarez",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
